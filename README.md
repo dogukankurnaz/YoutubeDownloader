@@ -14,7 +14,7 @@ Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış oldu�
 
 ### Kurulum Gereksinimleri
 
-* Curl kullanılabilir olmalıdır.
+* Hiçbir kurulum gereksinimi bulunmamaktadır. Kaynak kodlarıyla oynamak için Python IDLE'niz bulunması haricinde:)
 
 ### Kurulum
 
@@ -55,5 +55,3 @@ Pull Requestlere her zaman açığız.
 ## Teşekkürler
 [Pytube](https://pytube.io/en/latest/index.html)
 
-## Lisans
-[MIT](https://github.com/kemalsanli/wordKontrol/blob/main/LICENSE)
