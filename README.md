@@ -3,13 +3,10 @@ Fast, secure, YouTube video downloader by python
 ------------------------------------------------------
 ## Açıklama
 
-
-```
 Basit bir şekilde çıkan input bölümüne YouTube linki yapıştırdığınızda, seçeceğiniz dosya klasörüne videonun en yüksek kaliteli halini indirir.
-```
-```
+
 Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış olduğu için bu güvenlik sistemini aşamıyoruz. Yeterli indirme sayısına ulaştığında otomatik olarak SmartScreen veritabanından silinecek ve böyle bir uyarı sorgulamayacak. Daha fazla bilgi butonuna tıklayıp bu uygulamaya güveniyorum seçeneğini işaretleyin! (Bana güvenin...=) )
-```
+
 
 ## Başlarken
 
@@ -26,13 +23,7 @@ Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış oldu�
 ## Yardım
 
 Henüz herhangi bir sorunla karşılaşmadık.
-```
-Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış olduğu için bu güvenlik sistemini aşamıyoruz. Yeterli indirme sayısına ulaştığında otomatik olarak SmartScreen veritabanından silinecek ve böyle bir uyarı sorgulamayacak. Daha fazla bilgi butonuna tıklayıp bu uygulamaya güveniyorum seçeneğini işaretleyin! (Bana güvenin...=) )
 
-
-[Windows'un SmartScreen Hakkında Açıklaması](https://stackoverflow.com/questions/46218894/how-to-skip-windows-smart-screen-error-while-running-python-executable)
-
-```
 
 ## Arayüz
 
