@@ -35,9 +35,6 @@ Henüz herhangi bir sorunla karşılaşmadık.
 
 
 ## Ekip
-
-Projeyi oluşturan ekip.
-
  Doğukan KURNAZ  
  [@dogukankurnaz](https://github.com/dogukankurnaz)
 
