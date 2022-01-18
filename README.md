@@ -1,5 +1,4 @@
 # Youtube Downloader
-Fast, secure, YouTube video downloader by python
 ------------------------------------------------------
 ## Açıklama
 
