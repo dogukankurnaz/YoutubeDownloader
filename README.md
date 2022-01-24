@@ -4,7 +4,7 @@
 
 Basit bir şekilde çıkan input bölümüne YouTube linki yapıştırdığınızda, seçeceğiniz dosya klasörüne videonun en yüksek kaliteli halini indirir.
 
-Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış olduğu için bu güvenlik sistemini aşamıyoruz. Yeterli indirme sayısına ulaştığında otomatik olarak SmartScreen veritabanından silinecek ve böyle bir uyarı sorgulamayacak. Daha fazla bilgi butonuna tıklayıp bu uygulamaya güveniyorum seçeneğini işaretleyin! (Bana güvenin...=) )
+Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış olduğu için bu güvenlik sistemini aşamıyoruz. Yeterli indirme sayısına ulaştığında otomatik olarak SmartScreen veritabanından silinecek ve böyle bir uyarı sorgulamayacak. Daha fazla bilgi butonuna tıklayıp bu uygulamaya güveniyorum seçeneğini işaretleyin!
 
 [SmartScreen için Microsoft'un duyurusu =>](https://stackoverflow.com/questions/46218894/how-to-skip-windows-smart-screen-error-while-running-python-executable)
 
