@@ -9,7 +9,6 @@ from tkinter import messagebox
 
 root = tk.Tk()
 root.title('YouTube Dosya İndirme')
-root.iconbitmap('C:/Users/dogukaN/Desktop/YoutubeDownloader/dk.ico')
 root.geometry("300x150")
 root.resizable(width=0,height=0)
 root.eval('tk::PlaceWindow . center')
