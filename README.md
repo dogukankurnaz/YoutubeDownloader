@@ -10,7 +10,8 @@ Windows SmartScreen koruması için bir duyuru var, dosya yeni yazılmış oldu�
 
 ### Kurulum Gereksinimleri
 
-* Hiçbir kurulum gereksinimi bulunmamaktadır. Kaynak kodlarıyla oynamak için Python IDLE'niz bulunması haricinde:)
+* pip install pytube
+* python3
 
 ### Kurulum
 
