@@ -15,8 +15,7 @@ root.eval('tk::PlaceWindow . center')
 def verial():
     path_save = askdirectory()    
     link=YouTube(yazi.get())
-    stream=link.streams.get_highest_resolution()
-    stream.download(path_save)
+    stream=link.streams.get_highest_resolution().download(path_save)    
     var = messagebox.showinfo("Dogukan Kurnaz" , "Dosya İndirildi.")
 
 yazi=Entry(root)
